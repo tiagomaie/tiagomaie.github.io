@@ -193,7 +193,6 @@ exclude:
   - vendor
   - _news/
   - _posts/
-  - _pages/dropdown.md
 keep_files:
   - CNAME
   - .nojekyll
