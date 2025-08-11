@@ -194,8 +194,13 @@ exclude:
   # my custom ops
   - _news/
   - _pages/repositories.md
+  - _pages/projects.md
+  - _pages/blog.md
+  - _pages/profiles.md
+  - _pages/books.md
+  - _pages/news.md
+  - _pages/dropdown.md
   - _posts/
-  - _projects/?_project.md
   
 keep_files:
   - CNAME
