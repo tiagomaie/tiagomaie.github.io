@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://tiagomaie.github.io/sitemap.xml
