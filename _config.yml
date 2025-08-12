@@ -274,8 +274,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Tiago]
-  first_name: [Maié]
+  last_name: [Mai{\'e}]
+  first_name: [Tiago]
 
   style: apa
   locale: en
