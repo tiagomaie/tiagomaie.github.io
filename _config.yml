@@ -274,7 +274,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Mai{\'e}]
+  last_name: [Maié]
   first_name: [Tiago]
 
   style: apa
