@@ -21,7 +21,6 @@
       "url": "https://www.costalab.org/",
       "startDate": "2024-06-01",
       "endDate": "Present",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": ["scRNA-seq","Genomics","Epigenomics"]
     }
   ],
@@ -32,7 +31,7 @@
       "area": "Bioinformatics",
       "studyType": "PhD",
       "startDate": "2018-01-01",
-      "endDate": "2024-06-27"
+      "endDate": "2024-06-27",
       "courses": ["Machine learning", "DNA methylation", "Epigenetic signatures", "Cell type classification", "Cellular deconvolution", "Biomarker selection", "Clinical application"]
     },
     {
