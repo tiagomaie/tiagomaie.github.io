@@ -5,7 +5,7 @@ title: cv
 nav: true
 nav_order: 5
 cv_pdf: tm_cv.pdf # you can also use external links here
-description: 
+description:
 toc:
   sidebar: left
 ---
