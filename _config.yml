@@ -200,7 +200,7 @@ exclude:
   - _pages/news.md
   - _pages/dropdown.md
   - _posts/
-  
+
 keep_files:
   - CNAME
   - .nojekyll
