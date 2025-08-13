@@ -21,7 +21,7 @@
       "url": "https://www.costalab.org/",
       "startDate": "2024-06-01",
       "endDate": "Present",
-      "highlights": ["scRNA-seq","Genomics","Epigenomics"]
+      "highlights": ["scRNA-seq", "Genomics", "Epigenomics"]
     }
   ],
   "education": [
@@ -32,7 +32,15 @@
       "studyType": "PhD",
       "startDate": "2018-01-01",
       "endDate": "2024-06-27",
-      "courses": ["Machine learning", "DNA methylation", "Epigenetic signatures", "Cell type classification", "Cellular deconvolution", "Biomarker selection", "Clinical application"]
+      "courses": [
+        "Machine learning",
+        "DNA methylation",
+        "Epigenetic signatures",
+        "Cell type classification",
+        "Cellular deconvolution",
+        "Biomarker selection",
+        "Clinical application"
+      ]
     },
     {
       "institution": "University of Lisbon, Lisbon, Portugal & John Innes Centre, Norwich, United Kingdom",
