@@ -7,7 +7,7 @@ subtitle: <a href='#'>Ph.D. in Bioinformatics</a>. PostDoc @ RWTH Aachen Univers
 profile:
   align: right
   image: profile_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>Institute for Computational Genomics</p>
     <p>RWTH Aachen University Hospital</p>
@@ -30,4 +30,4 @@ social: false # includes social icons at the bottom of the page
 Hello world!
 
 I am currently a PostDoc in the Institute for Computational Genomics at the RWTH Aachen University Hospital, Germany.
-Working mainly with large genomics and epigenomics datasets, I build machine learning models to find interesting biomarkers, I build bioinformatics pipelines to facilitate analysis, and I build new bioinformatics/comp bio methods to solve niche problems. In sum, I like using big data to help find nuance in complex patterns and just generally like building things :)
+Working mainly with large genomics and epigenomics datasets, I build machine learning models to find interesting biomarkers, I build bioinformatics pipelines to facilitate analysis, I build data visualizations to better transmit knowledge and convey meaning, and I build new bioinformatics/comp bio methods to solve niche problems. In sum, I like using big data to help find nuance in complex patterns. That and I just generally like building things :)
