@@ -20,4 +20,3 @@ Bioinformatics in R (RWTH Aachen University, Institute for Computational Genomic
 INTRICARE - Short Intro to Bioinformatics (RWTH Aachen University, Institute for Computational Genomics):
 
 - [2019 Summer semester](https://www.costalab.org/intricare-intro-to-bioinformatics/)
-
