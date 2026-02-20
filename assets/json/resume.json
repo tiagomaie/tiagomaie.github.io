@@ -16,11 +16,19 @@
   },
   "work": [
     {
+      "name": "Sequantrix",
+      "position": "Computational Scientist",
+      "url": "https://www.sequantrix.bio/",
+      "startDate": "2026-01-01",
+      "endDate": "Present",
+      "highlights": ["MultiOmics", "AI-driven drug development", "precision medicine", "translational biology"]
+    },
+    {
       "name": "Institute for Computational Genomics, RWTH Aachen University Hospital",
       "position": "Postdoctoral Fellow",
       "url": "https://www.costalab.org/",
       "startDate": "2024-06-01",
-      "endDate": "Present",
+      "endDate": "2025-12-31",
       "highlights": ["scRNA-seq", "Genomics", "Epigenomics"]
     }
   ],
